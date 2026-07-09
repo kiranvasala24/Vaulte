@@ -9,3 +9,10 @@
 
   Run `npm run dev` to start the development server.
   
+# Vaulte
+
+Modern personal finance application built with Vite.
+
+## Preview
+
+![Vaulte Preview](preview.png)
